@@ -1,0 +1,55 @@
+{
+    "title": "Racing Shirt",
+    "price": 524,
+    "size": [{
+        "small": true,
+        "medium": false,
+        "large": false,
+        "xlarge": false
+    }],
+    "category": "shirt",
+    "thumbnail": "1",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+}
+
+{
+    "title": "Track Shoes",
+    "price": 524,
+    "size": [{
+        "small": false,
+        "medium": true,
+        "large": false,
+        "xlarge": false
+    }],
+    "category": "shoes",
+    "thumbnail": "2",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+}
+
+{
+    "title": "Lewis's signed cap",
+    "price": 674,
+    "size": [{
+        "small": false,
+        "medium": false,
+        "large": true,
+        "xlarge": false
+    }],
+    "category": "cap",
+    "thumbnail": "3",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+}
+
+{
+    "title": "Jersey",
+    "price": 7999,
+    "size": [{
+        "small": false,
+        "medium": false,
+        "large": false,
+        "xlarge": true
+    }],
+    "category": "jersey",
+    "thumbnail": "4",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+}

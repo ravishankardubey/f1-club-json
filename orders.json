@@ -1,0 +1,34 @@
+{
+    "userId" : "5a5b465cbc82e43694796454",
+    "productId" : "5a5a62d5631ddaa989dac84b",
+    "quantitly" : 1,
+    "sellingPrice" : 550,
+    "deliveryAddress": "Varanasi, India"
+}
+
+{
+    "userId" : "5a5b465cbc82e43694796454",
+    "productId" : "5a5a62d6631ddaa989dac84d",
+    "quantitly" : 1,
+    "sellingPrice" : 890,
+    "deliveryAddress": "Varanasi, India"
+}
+
+{
+    "userId" : "5a5b465cbc82e43694796454",
+    "productId" : "5a5a62d6631ddaa989dac856",
+    "quantitly" : 1,
+    "sellingPrice" : 1000,
+    "deliveryAddress": "Varanasi, India"
+}
+
+
+{
+    "userId" : "5a5b465cbc82e43694796454",
+    "productId" : "5a5a62d6631ddaa989dac859",
+    "quantitly" : 1,
+    "sellingPrice" : 690,
+    "deliveryAddress": "Varanasi, India"
+}
+
+

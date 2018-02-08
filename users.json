@@ -1,0 +1,164 @@
+
+{
+    "points" : 950.0,
+    "name" : "devesh",
+    "email" : "devesh@outlook.com",
+    "dob" : "1990-10-09",
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345"
+}
+
+
+{
+    "points" : 450.0,
+    "name" : "sarath",
+    "email" : "sarath@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345"
+}
+
+
+{
+    "points" : 930.0,
+    "name" : "ravi",
+    "email" : "ravi@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345"
+}
+
+{
+    "points" : 730.0,
+    "name" : "test1",
+    "email" : "test1@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345"
+}
+
+
+{
+    "points" : 910.0,
+    "name" : "sumit",
+    "email" : "sumit@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345"
+}
+
+
+{
+    "points" : 710.0,
+    "name" : "kausik",
+    "email" : "kausik@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345",
+    "__v" : 0.0
+}
+
+
+{
+    "points" : 110.0,
+    "name" : "test2",
+    "email" : "test2@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345",
+    "__v" : 0.0
+}
+
+
+{
+    "points" : 564.0,
+    "name" : "test3",
+    "email" : "test3@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345",
+    "__v" : 0.0
+}
+
+
+{
+    "points" : 864.0,
+    "name" : "test5",
+    "email" : "test5@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345",
+    "__v" : 0.0
+}
+
+
+{
+    "points" : 0.0,
+    "name" : "test6",
+    "email" : "test6@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345",
+    "__v" : 0.0
+}
+
+
+{
+    "points" : 435.0,
+    "name" : "test7",
+    "email" : "test7@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345",
+    "__v" : 0.0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5a55e6815bba2bc1dce93537"),
+    "points" : 799.0,
+    "name" : "test8",
+    "email" : "test8@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345",
+    "__v" : 0.0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5a55e6815bba2bc1dce93538"),
+    "points" : 799.0,
+    "name" : "test8",
+    "email" : "test8@outlook.com",
+    "dob" : ISODate("1990-10-09T18:30:00.000Z"),
+    "profilePicUrl" : "",
+    "country" : "India",
+    "gender" : "Male",
+    "password" : "12345",
+    "__v" : 0.0
+}
